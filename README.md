@@ -32,5 +32,5 @@ LLM Integration, RAG Pipelines & AWS Bedrock
 - Agentic AI workflows with LangGraph
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pvenkata.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pvenkata-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:pvenkata.tech@gmail.com)
