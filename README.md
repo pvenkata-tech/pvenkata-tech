@@ -1,31 +1,55 @@
 # Hi, I'm Venkata 👋 
-### Senior Full Stack AI Engineer | 15+ Years Building Scalable Systems
+## Senior Full-Stack AI Engineer
 
-I specialize in bridging the gap between **Enterprise-grade Infrastructure** and **Modern AI Workflows**. With a background in high-traffic ecommerce and HIPAA-compliant healthcare systems, I build AI solutions that are secure, measurable, and production-ready.
+**15+ Years of Systems Architecture | Specialist in Agentic RAG & Stateful LLM Orchestration**
 
----
-
-### 🤖 Featured AI Projects (2026)
-* **[Clinical Intelligence RAG](LINK_TO_REPO)**: A HIPAA-aware document Q&A pipeline using **LangChain**, **Pinecone**, and **FastAPI**. Features hybrid search and PII masking.
-* **[Agentic Retail Orchestrator](LINK_TO_REPO)**: A multi-agent system built with **LangGraph** that automates complex ecommerce refund and inventory logic.
-* **[LLM Eval Suite](LINK_TO_REPO)**: A framework for testing RAG faithfulness and hallucination rates using **Ragas** and **LangSmith**.
+I bridge the gap between "experimental AI" and "production-ready systems." With over 15 years of experience delivering scalable web applications for enterprise, e-commerce, and healthcare, I architect autonomous, resilient AI agents that solve complex business logic problems with high reliability and observability.
 
 ---
 
-### 🛠️ The Stack
-* **AI/ML:** Python, LangChain, LangGraph, OpenAI/Anthropic APIs, Pinecone, Vector DBs, RAG Evaluation.
-* **Full Stack:** Node.js, React, Next.js, TypeScript, PostgreSQL.
-* **Cloud & DevOps:** AWS (Bedrock, Lambda, ECS), Terraform, Docker, CI/CD.
-* **Domain Expertise:** Healthcare (FHIR/HL7), HIPAA Compliance, Ecommerce Architecture.
+### 📈 Current Technical Focus
+* 🛠️ **Refining Agentic Workflows:** Optimizing state-graph transitions and parallel tool execution in LangGraph.
+* 🧪 **LLMOps & Resiliency:** Implementing automated evaluation frameworks for non-deterministic LLM outputs.
+* 🌐 **AEO/GEO:** Developing high-performance utility tools optimized for the Generative Search era at [smartjson.io](https://smartjson.io).
 
 ---
 
-### 📈 Proof of Work
-* **15+ Years** of professional experience delivering for enterprise clients.
-* Consistently delivering **high-performance, scalable code** that balances innovation with security.
-* [LinkedIn Profile](YOUR_LINKEDIN_URL) | [Portfolio/Blog](YOUR_WEBSITE_URL)
+### 🏆 Featured Project: Agentic Deep Research Assistant
+**[🔗 View Repository: agentic-deep-research-graph](https://github.com/pvenkata-tech/agentic-deep-research-graph)**
+
+My flagship project demonstrating **Production-Grade Agentic RAG**.
+* **The Problem:** Standard RAG chains are linear, context-limited, and prone to hallucinations.
+* **The Solution:** A cyclic, stateful multi-agent system built with **LangGraph** and **Ollama**.
+* **Key Innovation:** Implemented a **Human-in-the-Loop (HITL)** persistence layer using **SQLite**, allowing complex, long-running research tasks to be paused, reviewed, and refined without state loss.
+* **Engineering Edge:** Features asynchronous parallel search, Pydantic-validated state schemas, and structured observability.
 
 ---
 
-### ⚡ Recent Activity
-[![Venkata's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvenkata-tech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🩺 Domain Expertise: Clinical Intelligence
+**[🔗 View Project: clinical-intelligence-rag](https://github.com/pvenkata-tech/clinical-intelligence-rag)**
+
+A specialized RAG engine architected for the healthcare sector.
+* **Focus:** Intelligent parsing and PII scrubbing of clinical documents.
+* **Architecture:** Utilizes **AWS Bedrock** and **Pinecone** to maintain high compliance and security standards while extracting actionable medical insights.
+
+---
+
+### 🛠️ Technical Arsenal
+| Category | Stack |
+| :--- | :--- |
+| **AI Orchestration** | LangGraph (Stateful Agents), LangChain, Multi-Agent Workflows |
+| **LLMs & RAG** | Ollama (Local), AWS Bedrock, OpenAI, RAG Pipeline Optimization, LLMOps |
+| **Data & Search** | Pinecone (Vector DB), Tavily (Search API), PostgreSQL, Redis, NoSQL |
+| **Core Engineering** | Python, FastAPI, TypeScript, React, Docker, AWS (Serverless & EC2) |
+| **Optimization** | GEO/AEO, Latency Optimization, Structured JSON Logging |
+
+---
+
+### ⚡ Professional Philosophy: "Safe AI"
+I believe the future of AI in the enterprise isn't fully autonomous—it's **collaborative**. I specialize in building **Human-in-the-Loop** architectures that ensure AI outputs remain accurate, ethical, and aligned with business objectives.
+
+### 📫 Let's Build Something Resilient
+- **GitHub:** [@pvenkata-tech](https://github.com/pvenkata-tech)
+- **LinkedIn:** [pvenkata-tech](https://www.linkedin.com/in/pvenkata-tech/)
+- **Focus:** Senior Remote roles in AI Engineering / LLM Systems Architecture.
+- **Location:** Global / Remote
