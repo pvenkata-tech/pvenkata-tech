@@ -8,10 +8,9 @@ I bridge the gap between "experimental AI" and "production-ready systems." With 
 ---
 
 ### 📈 Current Technical Focus
-* 🛠️ **Refining Agentic Workflows:** Optimizing state-graph transitions and parallel tool execution in LangGraph.
-* 🧪 **LLMOps & Resiliency:** Implementing automated evaluation frameworks for non-deterministic LLM outputs.
-* 🌐 **AEO/GEO:** Developing high-performance utility tools optimized for the Generative Search era at [smartjson.io](https://smartjson.io).
-
+* 🛠️ **Refining Agentic Workflows:** Optimizing state-graph transitions and Human-in-the-Loop refinement patterns in LangGraph.
+* 🧪 **LLMOps & Resiliency:** Implementing automated evaluation frameworks (Ragas/LangSmith) to ensure 1.00 Faithfulness for non-deterministic LLM outputs.
+* 🌐 **AEO/GEO:** Developing high-performance utility tools optimized for the Generative Search era, focusing on latency optimization and structured data.
 ---
 
 ### 🏆 Featured Project: Agentic Deep Research Assistant
