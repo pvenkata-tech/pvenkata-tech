@@ -1,5 +1,5 @@
 # Hi, I'm Venkata 👋 
-## Senior Full-Stack AI Engineer
+## Staff Software Engineer & AI Lead | Python • React • AWS | Agentic RAG & LangGraph
 
 **15+ Years of Systems Architecture | Specialist in Agentic RAG & Stateful LLM Orchestration**
 
