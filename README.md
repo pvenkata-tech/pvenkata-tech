@@ -32,9 +32,9 @@ I leverage **OpenTelemetry** for system-level health (latency/throughput) and **
 
 ### 📂 Featured Production-Grade Repositories
 
-*   **[the-rcm-guardian](https://github.com/pvenkata-tech/the-rcm-guardian):** Agentic Revenue Cycle Management workflow featuring multimodal extraction and clinical reconciliation.
-*   **[agentic-deep-research-graph](https://github.com/pvenkata-tech/agentic-deep-research-graph):** Advanced multi-agent research loops built with LangGraph.
-*   **[sentinel-ai-gateway](https://github.com/pvenkata-tech/sentinel-ai-gateway):** A security-first proxy for PII redaction and LLM observability.
+*   **[the-rcm-guardian](https://github.com/pvenkata-tech/the-rcm-guardian):** Agentic RCM service using LangGraph, Multimodal Vision, and LIMS reconciliation. Features HITL checkpoints and pgvector RAG.
+*   **[agentic-deep-research-graph](https://github.com/pvenkata-tech/agentic-deep-research-graph):** Self-correcting multi-agent research loop using LangGraph and GPT-4o. Demonstrates stateful orchestration and adaptive search.
+*   **[sentinel-ai-gateway](https://github.com/pvenkata-tech/sentinel-ai-gateway):** Privacy-first AI Proxy for PII redaction and enterprise observability (OTel/LangSmith) in production LLM workflows.
 *   **[clinical-intelligence-rag](https://github.com/pvenkata-tech/clinical-intelligence-rag):** Complex RAG pipelines for regulated healthcare data.
 
 ---
