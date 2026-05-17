@@ -13,6 +13,7 @@ With 15+ years of experience in systems architecture, I specialize in transformi
 *   **LLMs & RAG:** AWS Bedrock, OpenAI, Agentic RAG Optimization, pgvector.
 *   **Infrastructure:** Terraform, AWS (Fargate/ECS, Lambda, S3), Docker, Kubernetes.
 *   **Observability:** OpenTelemetry, LangSmith, Sentinel-AI Guardrails.
+*   **Cloud SDKs:** AWS SDK (v3 — S3, DynamoDB, Lambda, SQS, Bedrock Runtime), Boto3 (Python).
 *   **Modern Stack:** JavaScript (Node.js), TypeScript, Python, PostgreSQL.
 
 ---
